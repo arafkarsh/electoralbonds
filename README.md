@@ -14,6 +14,10 @@ Electoral Bonds are a financial instrument introduced in India as a means of mak
 - Specified Banks: Electoral Bonds can only be purchased from authorized banks as notified by the government.
 - Eligible Recipients: Only political parties registered under the Representation of the People Act, 1951, are eligible to receive donations through Electoral Bonds.
 
+### Supreme Court - February 2024 on Electoral Bonds
+
+On 15 February 2024, the Court unanimously struck down the Union’s 2018 Electoral Bonds (EB) Scheme. The Bench held that the Scheme violated the voters’ right to information enshrined in Article 19(1)(a) of the Constitution. The Court also directed that the sale of electoral bonds be stopped with immediate effect. SBI was directed to submit details of the Electoral Bonds purchased from 12 April 2019 till date, to the ECI. This will include details of the purchaser as well as the political parties that the bonds were given to. Further, the Court ordered the ECI to publish the information shared by SBI on its official website within one week from the receipt of the information (by 13 March 2024)
+
 ## SBI Data Summary - April, 2019 - February, 2024
 
 The findings derived from correlating the Purchaser (Corporates/Individuals) with the Party Dataset are as follows:
