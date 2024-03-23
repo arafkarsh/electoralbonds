@@ -1,2 +1,2 @@
 # electoralbonds
-Electoral Bonds data from SBI made it public by Election Commission of India. 
+Electoral Bonds data from SBI was made public by the Election Commission of India. 
