@@ -4,7 +4,17 @@
 
 On March 21, 2024, the Election Commission of India publicly released the Electoral Bonds data obtained from the State Bank of India (SBI). I found it rather astonishing when SBI communicated to the Supreme Court of India their requirement for a four-month duration to reconcile the purchasers of Electoral Bonds with the corresponding recipient political parties, especially considering that such a task could conceivably be completed in a fraction of that time, possibly within a matter of hours.
 
-## Data Summary - April, 2019 - February, 2024
+### Electoral Bonds
+Electoral Bonds are a financial instrument introduced in India as a means of making political donations transparent while ensuring the anonymity of the donor. These bonds are essentially bearer instruments, similar to promissory notes, that can be purchased from specified branches of authorized banks for making donations to registered political parties.
+
+### Key features of Electoral Bonds include:
+- Anonymity: The identity of the donor is kept confidential, as the bonds do not carry the name of the purchaser.
+- Legal Tender: Electoral Bonds are legal tender and can be used by political parties to receive donations.
+- Validity Period: These bonds have a limited validity period, typically 15 days, during which they can be utilized to make donations.
+- Specified Banks: Electoral Bonds can only be purchased from authorized banks as notified by the government.
+- Eligible Recipients: Only political parties registered under the Representation of the People Act, 1951, are eligible to receive donations through Electoral Bonds.
+
+## SBI Data Summary - April, 2019 - February, 2024
 
 The findings derived from correlating the Purchaser (Corporates/Individuals) with the Party Dataset are as follows:
 - A sum of Rs. 623.21 Cr is absent from the Purchaser Dataset.
