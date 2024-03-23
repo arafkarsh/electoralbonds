@@ -10,6 +10,9 @@ On March 21, 2024, the Election Commission of India publicly released the Electo
 
 ## Electoral Bonds
 
+- The subsequent charts illustrate the data from both the Purchasers' (Corporates/Individuals) and Parties' perspectives. Of particular interest is the absence of data amounting to Rs. 613.58 Cr from the Purchasers' dataset, where both the corresponding Bond-Number and Purchaser information are conspicuously absent.
+- A significant majority, 95.56%, of the sold Bonds hold a denomination of Rs. 1 Cr, totaling Rs. 12,207 Cr out of the overall Rs. 12,769 Cr that parties have encashed. This indicates that donating substantial sums to political parties is considerably more straightforward when utilizing the Rs. 1 Cr denomination.
+
 ![Bonds1](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Electoral-Bonds-2019-2024-B.png)
 ![Bonds2](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Electoral-Bonds-Denominations.png)
 
