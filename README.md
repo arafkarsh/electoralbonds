@@ -12,6 +12,7 @@ Electoral Bonds
 
 Party Details
 
-![Party](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Electoral-Bonds-Party-Summary.png)
+![Party-Details](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Electoral-Bonds-Party-Details.png)
+![Party-Summary](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Electoral-Bonds-Party-Summary.png)
 
 (C) Copyright 2024 : Apache 2 License : Author: Araf Karsh Hamid
