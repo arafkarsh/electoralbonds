@@ -1,5 +1,5 @@
 # Electoral Bonds
-Electoral Bonds data from SBI was made public by the Election Commission of India. 
+Electoral Bonds data from SBI was made public by the Election Commission of India on March 21, 2024
 
 Data Summary - April, 2019 - February, 2024
 
