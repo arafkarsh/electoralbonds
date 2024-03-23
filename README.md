@@ -6,6 +6,11 @@ On March 21, 2024, the Election Commission of India publicly released the Electo
 
 ## Data Summary - April, 2019 - February, 2024
 
+The findings derived from correlating the Purchaser (Corporates/Individuals) with the Party Dataset are as follows:
+- A sum of Rs. 623.21 Cr is absent from the Purchaser Dataset.
+- There are 1680 transactions that lack any association with the Purchaser Dataset.
+- Within the Purchaser Dataset, 130 transactions involving Bonds have expired.
+
 ![Data Summary](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/EB-Linking-Data.png)
 
 ## Electoral Bonds
