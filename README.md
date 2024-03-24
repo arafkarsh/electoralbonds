@@ -119,7 +119,7 @@ Disclosure Requirements: Political parties are required to disclose the details 
 Consequences of Non-Compliance: Failure to comply with the conditions specified under Section 13A can result in the withdrawal of tax exemption status for the political party. Additionally, penalties may be imposed for non-compliance with the reporting and disclosure requirements.
 Purpose of the Provision: The objective of Section 13A is to encourage transparency and accountability in the funding of political parties while providing them with a tax incentive to support their activities. By exempting their income from taxation, the provision aims to facilitate the functioning of political parties and promote democratic participation.
 
-## Issues with Electoral Bonds: Source - Akash Banerjee - YouTuber
+## Issues with Electoral Bonds
 
 ![Issue-0](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-Bonds-Purchased-Vs-Net-Profits.jpg)
 ![Issue-1](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-1-in-2023.jpg)
@@ -138,6 +138,8 @@ Purpose of the Provision: The objective of Section 13A is to encourage transpare
 ![Issue-9C](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-9C.jpg)
 ![Issue-9D](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-9D.jpg)
 
-Source: YouTuber - The DeshBhakt: Akash Banerjee ... https://www.youtube.com/watch?v=hM8unyUM6KA
+Source: 
+- YouTuber - The DeshBhakt: Akash Banerjee ... https://www.youtube.com/watch?v=hM8unyUM6KA
+- YouTuber - Soch By Mohak Mangal ... https://www.youtube.com/watch?v=Y860YJVuQOo
 
 (C) Copyright 2024 : Apache 2 License : Author: Araf Karsh Hamid
