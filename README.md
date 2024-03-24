@@ -99,6 +99,7 @@ Regulation of Foreign Contributions: The FCRA regulates the acceptance, utilizat
 ```
 <div style="color:red">Prohibition and Permissions: Certain activities related to foreign contributions are prohibited under the FCRA, while others require prior permission or registration from the government. Political parties, electoral candidates, lawmakers, and certain categories of NGOs are prohibited from accepting foreign contributions without prior approval from the Ministry of Home Affairs.
 </div>
+```
 Reporting Requirements: Organizations and individuals receiving foreign contributions are required to maintain detailed records, including the sources and utilization of funds. They must submit regular reports to the government, disclosing the receipt and utilization of foreign contributions in accordance with the FCRA provisions.
 
 ### RoPA - Representation of the Peoples Act 1951 - Section 29C
