@@ -40,4 +40,9 @@ The findings derived from correlating the Purchaser (Corporates/Individuals) wit
 ![Party-Details](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Electoral-Bonds-Party-Details.png)
 ![Party-Summary](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Electoral-Bonds-Party-Summary.png)
 
+### Party Details - Including data from 2018-19
+
+![Party-2018](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/EB-Party-Wise-Mint.jpg)
+
+
 (C) Copyright 2024 : Apache 2 License : Author: Araf Karsh Hamid
