@@ -2,7 +2,7 @@
 
 ### Published by Election Commission of India. March, 21, 2024
 
-On March 21, 2024, the Election Commission of India publicly released the Electoral Bonds data obtained from the State Bank of India (SBI). I found it rather astonishing when SBI communicated to the Supreme Court of India their requirement for a four-month duration to reconcile the purchasers of Electoral Bonds with the corresponding recipient political parties, especially considering that such a task could conceivably be completed in a fraction of that time, possibly within a matter of hours.
+On March 21, 2024, the Election Commission of India publicly released the Electoral Bonds data obtained from the State Bank of India (SBI). I found it rather astonishing when SBI communicated to the Supreme Court of India their requirement for a four-month duration to reconcile the purchasers of Electoral Bonds with the corresponding recipient political parties, especially considering that such a task could conceivably be completed in a fraction of that time, possibly within a matter of few hours (less than 4 hours).
 
 ### Electoral Bonds
 Electoral Bonds are a financial instrument introduced in India as a means of making political donations transparent while ensuring the anonymity of the donor. These bonds are essentially bearer instruments, similar to promissory notes, that can be purchased from specified branches of authorized banks for making donations to registered political parties.
