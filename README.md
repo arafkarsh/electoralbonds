@@ -80,16 +80,20 @@ Source: https://www.scobserver.in/cases/association-for-democratic-reforms-elect
 
 ### Foreign Contributions Regulations Act, 2010 - Section 2(1)(j)(vi)
 
-#### Definition of "Foreign Source": Section 2(1)(j)(vi) of the FCRA defines "foreign source" as follows:
+Definition of "Foreign Source": Section 2(1)(j)(vi) of the FCRA defines "foreign source" as follows:
 - Any foreign government, corporation, organization, or individual.
 - Any entity incorporated or registered outside India.
 - Any individual who is not a citizen of India.
 
-#### Entities Covered: The definition encompasses a broad range of entities and individuals that have a foreign connection or origin. This includes foreign governments, international organizations, multinational corporations, foreign citizens, and non-resident Indians (NRIs) who are not registered or incorporated in India.
-#### Applicability to Contributions: Contributions received from entities or individuals falling under the definition of "foreign source" are considered foreign contributions under the FCRA. This includes monetary donations, grants, gifts, securities, and any other form of financial assistance received from foreign sources.
-#### Regulation of Foreign Contributions: The FCRA regulates the acceptance, utilization, and reporting of foreign contributions by individuals, associations, and organizations in India. It aims to ensure transparency, accountability, and national security in the receipt and utilization of funds from foreign sources.
-#### Prohibition and Permissions: Certain activities related to foreign contributions are prohibited under the FCRA, while others require prior permission or registration from the government. Political parties, electoral candidates, lawmakers, and certain categories of NGOs are prohibited from accepting foreign contributions without prior approval from the Ministry of Home Affairs.
-#### Reporting Requirements: Organizations and individuals receiving foreign contributions are required to maintain detailed records, including the sources and utilization of funds. They must submit regular reports to the government, disclosing the receipt and utilization of foreign contributions in accordance with the FCRA provisions.
+Entities Covered: The definition encompasses a broad range of entities and individuals that have a foreign connection or origin. This includes foreign governments, international organizations, multinational corporations, foreign citizens, and non-resident Indians (NRIs) who are not registered or incorporated in India.
+
+Applicability to Contributions: Contributions received from entities or individuals falling under the definition of "foreign source" are considered foreign contributions under the FCRA. This includes monetary donations, grants, gifts, securities, and any other form of financial assistance received from foreign sources.
+
+Regulation of Foreign Contributions: The FCRA regulates the acceptance, utilization, and reporting of foreign contributions by individuals, associations, and organizations in India. It aims to ensure transparency, accountability, and national security in the receipt and utilization of funds from foreign sources.
+
+Prohibition and Permissions: Certain activities related to foreign contributions are prohibited under the FCRA, while others require prior permission or registration from the government. Political parties, electoral candidates, lawmakers, and certain categories of NGOs are prohibited from accepting foreign contributions without prior approval from the Ministry of Home Affairs.
+
+Reporting Requirements: Organizations and individuals receiving foreign contributions are required to maintain detailed records, including the sources and utilization of funds. They must submit regular reports to the government, disclosing the receipt and utilization of foreign contributions in accordance with the FCRA provisions.
 
 ### RoPA - Representation of the Peoples Act 1951 - Section 29C
 
