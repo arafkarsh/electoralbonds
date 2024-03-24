@@ -91,7 +91,7 @@ Applicability to Contributions: Contributions received from entities or individu
 
 Regulation of Foreign Contributions: The FCRA regulates the acceptance, utilization, and reporting of foreign contributions by individuals, associations, and organizations in India. It aims to ensure transparency, accountability, and national security in the receipt and utilization of funds from foreign sources.
 
-<p style="color:red;">Prohibition and Permissions: Certain activities related to foreign contributions are prohibited under the FCRA, while others require prior permission or registration from the government. Political parties, electoral candidates, lawmakers, and certain categories of NGOs are prohibited from accepting foreign contributions without prior approval from the Ministry of Home Affairs.</p>
+<font color="red">Prohibition and Permissions: Certain activities related to foreign contributions are prohibited under the FCRA, while others require prior permission or registration from the government. Political parties, electoral candidates, lawmakers, and certain categories of NGOs are prohibited from accepting foreign contributions without prior approval from the Ministry of Home Affairs.</font>
 
 Reporting Requirements: Organizations and individuals receiving foreign contributions are required to maintain detailed records, including the sources and utilization of funds. They must submit regular reports to the government, disclosing the receipt and utilization of foreign contributions in accordance with the FCRA provisions.
 
@@ -101,7 +101,7 @@ Reporting Requirements: Organizations and individuals receiving foreign contribu
 - Expense Accounts: Political parties and candidates are required to maintain separate accounts of their election expenses. Section 77(1) of the Act mandates candidates to lodge an account of their election expenses within 30 days after the declaration of the election result with the District Election Officer.
 - Limitation on Election Expenses: The Act prescribes limits on the maximum amount of money that can be spent by candidates and political parties during elections. Exceeding these limits is an offense under the Act.
 - Disclosure of Donations: Political parties are required to maintain records of donations received and report them to the Election Commission of India. Section 29C of the Act mandates political parties to submit details of donations above Rs. 20,000 to the Election Commission annually. Additionally, they must maintain records of donations received in excess of Rs. 20,000 from any person or company.
-<p style="color:red;">- Publication of Accounts: Political parties are required to publish their audited accounts annually. Section 29C(3) of the Act stipulates that political parties must submit their audited annual financial statements to the Election Commission, which then publishes these statements for public scrutiny.</p>
+<font color="red">- Publication of Accounts: Political parties are required to publish their audited accounts annually. Section 29C(3) of the Act stipulates that political parties must submit their audited annual financial statements to the Election Commission, which then publishes these statements for public scrutiny.</font>
 - Penalties for Non-Compliance: The Act provides for penalties for candidates and political parties that fail to comply with the disclosure and reporting requirements. Violations can lead to disqualification, fines, or other legal actions.
 
 ### Income Tax Act - Section 13A
@@ -112,7 +112,7 @@ Conditions for Tax Exemption: To qualify for tax exemption under Section 13A, po
 - They must submit a report of the contributions received in excess of Rs. 20,000 from any person or entity.
 - They must submit their income and expenditure statements to the Election Commission of India annually.
 
-<p style="color:red;">Tax Treatment of Donations: Donations received by political parties are exempt from taxation under Section 13A. However, political parties must maintain records of donations exceeding Rs. 20,000 and report them to the Election Commission of India.</p>
+<font color="red">Tax Treatment of Donations: Donations received by political parties are exempt from taxation under Section 13A. However, political parties must maintain records of donations exceeding Rs. 20,000 and report them to the Election Commission of India.</font>
 
 Disclosure Requirements: Political parties are required to disclose the details of their funding, including the sources of their income and the amounts received from donors. This transparency is essential for ensuring accountability and preventing the misuse of funds.
 
