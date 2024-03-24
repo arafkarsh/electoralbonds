@@ -155,4 +155,41 @@ Source:
 - YouTuber - The DeshBhakt: Akash Banerjee ... https://www.youtube.com/watch?v=hM8unyUM6KA
 - YouTuber - Soch By Mohak Mangal ... https://www.youtube.com/watch?v=Y860YJVuQOo
 
+# For Developers
+
+## Database Setup
+
+### PostgreSQL Database
+
+Notes
+- Change the owner in the eb-data.sql
+- database name: electoralbonds
+- schema name: eb_schema
+- port number: 5433
+
+```
+$ cd database-scripts
+$ gunzip eb-data.sql.gz
+$ importdb
+```
+
+![db-setup](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Techies-Database-Setup.jpg)
+
+### PreBuilt Views
+
+#### Party Donor Tx Summary
+```
+select * from eb_schema.partydonorsummary_view;
+```
+![db-view-1](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Techies-EB-PartyDonor-Summary.jpg)
+
+
+#### Party Donor Tx Details
+```
+select * from eb_schema.partydonordetails_view;
+```
+![db-view-2](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Techies-EB-PartyDonor-Details.jpg)
+
+
+
 (C) Copyright 2024 : Apache 2 License : Author: Araf Karsh Hamid
