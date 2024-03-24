@@ -86,44 +86,44 @@ Source: https://www.scobserver.in/cases/association-for-democratic-reforms-elect
 
 ### Foreign Contributions Regulations Act, 2010 - Section 2(1)(j)(vi)
 
-Definition of "Foreign Source": Section 2(1)(j)(vi) of the FCRA defines "foreign source" as follows:
-- Any foreign government, corporation, organization, or individual.
-- Any entity incorporated or registered outside India.
-- Any individual who is not a citizen of India.
+- **Definition of "Foreign Source":** Section 2(1)(j)(vi) of the FCRA defines "foreign source" as follows:
+	- Any foreign government, corporation, organization, or individual.
+	- Any entity incorporated or registered outside India.
+	- Any individual who is not a citizen of India.
 
-Entities Covered: The definition encompasses a broad range of entities and individuals that have a foreign connection or origin. This includes foreign governments, international organizations, multinational corporations, foreign citizens, and non-resident Indians (NRIs) who are not registered or incorporated in India.
+- **Entities Covered:** The definition encompasses a broad range of entities and individuals that have a foreign connection or origin. This includes foreign governments, international organizations, multinational corporations, foreign citizens, and non-resident Indians (NRIs) who are not registered or incorporated in India.
 
-Applicability to Contributions: Contributions received from entities or individuals falling under the definition of "foreign source" are considered foreign contributions under the FCRA. This includes monetary donations, grants, gifts, securities, and any other form of financial assistance received from foreign sources.
+- **Applicability to Contributions:** Contributions received from entities or individuals falling under the definition of "foreign source" are considered foreign contributions under the FCRA. This includes monetary donations, grants, gifts, securities, and any other form of financial assistance received from foreign sources.
 
-Regulation of Foreign Contributions: The FCRA regulates the acceptance, utilization, and reporting of foreign contributions by individuals, associations, and organizations in India. It aims to ensure transparency, accountability, and national security in the receipt and utilization of funds from foreign sources.
+- **Regulation of Foreign Contributions:** The FCRA regulates the acceptance, utilization, and reporting of foreign contributions by individuals, associations, and organizations in India. It aims to ensure transparency, accountability, and national security in the receipt and utilization of funds from foreign sources.
 
-**Prohibition and Permissions:** *Certain activities related to foreign contributions are prohibited under the FCRA, while others require prior permission or registration from the government. Political parties, electoral candidates, lawmakers, and certain categories of NGOs are prohibited from accepting foreign contributions without prior approval from the Ministry of Home Affairs.*
+- **Prohibition and Permissions:** *Certain activities related to foreign contributions are prohibited under the FCRA, while others require prior permission or registration from the government. Political parties, electoral candidates, lawmakers, and certain categories of NGOs are prohibited from accepting foreign contributions without prior approval from the Ministry of Home Affairs.*
 
-Reporting Requirements: Organizations and individuals receiving foreign contributions are required to maintain detailed records, including the sources and utilization of funds. They must submit regular reports to the government, disclosing the receipt and utilization of foreign contributions in accordance with the FCRA provisions.
+- **Reporting Requirements:** Organizations and individuals receiving foreign contributions are required to maintain detailed records, including the sources and utilization of funds. They must submit regular reports to the government, disclosing the receipt and utilization of foreign contributions in accordance with the FCRA provisions.
 
 ### RoPA - Representation of the Peoples Act 1951 - Section 29C
 
-- Declaration of Assets and Liabilities: Section 75A of the Representation of the People Act, 1951, mandates candidates contesting elections to the Parliament or State Legislature to file an affidavit declaring their assets, liabilities, educational qualifications, and criminal antecedents, if any, along with their nomination papers.
-- Expense Accounts: Political parties and candidates are required to maintain separate accounts of their election expenses. Section 77(1) of the Act mandates candidates to lodge an account of their election expenses within 30 days after the declaration of the election result with the District Election Officer.
-- Limitation on Election Expenses: The Act prescribes limits on the maximum amount of money that can be spent by candidates and political parties during elections. Exceeding these limits is an offense under the Act.
-- Disclosure of Donations: Political parties are required to maintain records of donations received and report them to the Election Commission of India. Section 29C of the Act mandates political parties to submit details of donations above Rs. 20,000 to the Election Commission annually. Additionally, they must maintain records of donations received in excess of Rs. 20,000 from any person or company.
-- `<span style="color:red"> Publication of Accounts: Political parties are required to publish their audited accounts annually. Section 29C(3) of the Act stipulates that political parties must submit their audited annual financial statements to the Election Commission, which then publishes these statements for public scrutiny.</span>`
-- Penalties for Non-Compliance: The Act provides for penalties for candidates and political parties that fail to comply with the disclosure and reporting requirements. Violations can lead to disqualification, fines, or other legal actions.
+- **Declaration of Assets and Liabilities:** Section 75A of the Representation of the People Act, 1951, mandates candidates contesting elections to the Parliament or State Legislature to file an affidavit declaring their assets, liabilities, educational qualifications, and criminal antecedents, if any, along with their nomination papers.
+- **Expense Accounts:** Political parties and candidates are required to maintain separate accounts of their election expenses. Section 77(1) of the Act mandates candidates to lodge an account of their election expenses within 30 days after the declaration of the election result with the District Election Officer.
+- **Limitation on Election Expenses:** The Act prescribes limits on the maximum amount of money that can be spent by candidates and political parties during elections. Exceeding these limits is an offense under the Act.
+- **Disclosure of Donations:** Political parties are required to maintain records of donations received and report them to the Election Commission of India. Section 29C of the Act mandates political parties to submit details of donations above Rs. 20,000 to the Election Commission annually. Additionally, they must maintain records of donations received in excess of Rs. 20,000 from any person or company.
+- **Publication of Accounts:** *Political parties are required to publish their audited accounts annually. Section 29C(3) of the Act stipulates that political parties must submit their audited annual financial statements to the Election Commission, which then publishes these statements for public scrutiny.*
+- **Penalties for Non-Compliance:** The Act provides for penalties for candidates and political parties that fail to comply with the disclosure and reporting requirements. Violations can lead to disqualification, fines, or other legal actions.
 
 ### Income Tax Act - Section 13A
 
-Tax Exemption for Political Parties: Section 13A provides for the exemption of income of political parties from taxation. Political parties registered under Section 29A of the Representation of the People Act, 1951, are eligible for this tax exemption.
+- Tax Exemption for Political Parties: Section 13A provides for the exemption of income of political parties from taxation. Political parties registered under Section 29A of the Representation of the People Act, 1951, are eligible for this tax exemption.
 Conditions for Tax Exemption: To qualify for tax exemption under Section 13A, political parties must fulfill certain conditions:
-- They must maintain books of account and other documents recording all their income and expenditure.
-- They must submit a report of the contributions received in excess of Rs. 20,000 from any person or entity.
-- They must submit their income and expenditure statements to the Election Commission of India annually.
+	- They must maintain books of account and other documents recording all their income and expenditure.
+	- They must submit a report of the contributions received in excess of Rs. 20,000 from any person or entity.
+	- They must submit their income and expenditure statements to the Election Commission of India annually.
 
-<span style="color:red">Tax Treatment of Donations: Donations received by political parties are exempt from taxation under Section 13A. However, political parties must maintain records of donations exceeding Rs. 20,000 and report them to the Election Commission of India.</span>
+- Tax Treatment of Donations: Donations received by political parties are exempt from taxation under Section 13A. However, political parties must maintain records of donations exceeding Rs. 20,000 and report them to the Election Commission of India.
 
-Disclosure Requirements: Political parties are required to disclose the details of their funding, including the sources of their income and the amounts received from donors. This transparency is essential for ensuring accountability and preventing the misuse of funds.
+- Disclosure Requirements: Political parties are required to disclose the details of their funding, including the sources of their income and the amounts received from donors. This transparency is essential for ensuring accountability and preventing the misuse of funds.
 
-Consequences of Non-Compliance: Failure to comply with the conditions specified under Section 13A can result in the withdrawal of tax exemption status for the political party. Additionally, penalties may be imposed for non-compliance with the reporting and disclosure requirements.
-Purpose of the Provision: The objective of Section 13A is to encourage transparency and accountability in the funding of political parties while providing them with a tax incentive to support their activities. By exempting their income from taxation, the provision aims to facilitate the functioning of political parties and promote democratic participation.
+- Consequences of Non-Compliance: Failure to comply with the conditions specified under Section 13A can result in the withdrawal of tax exemption status for the political party. Additionally, penalties may be imposed for non-compliance with the reporting and disclosure requirements.
+- Purpose of the Provision: The objective of Section 13A is to encourage transparency and accountability in the funding of political parties while providing them with a tax incentive to support their activities. By exempting their income from taxation, the provision aims to facilitate the functioning of political parties and promote democratic participation.
 
 ## Top Corporates 
 
