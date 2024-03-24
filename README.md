@@ -119,14 +119,25 @@ Disclosure Requirements: Political parties are required to disclose the details 
 Consequences of Non-Compliance: Failure to comply with the conditions specified under Section 13A can result in the withdrawal of tax exemption status for the political party. Additionally, penalties may be imposed for non-compliance with the reporting and disclosure requirements.
 Purpose of the Provision: The objective of Section 13A is to encourage transparency and accountability in the funding of political parties while providing them with a tax incentive to support their activities. By exempting their income from taxation, the provision aims to facilitate the functioning of political parties and promote democratic participation.
 
-## Issues with Electoral Bonds
+## Issues with Electoral Bonds: Source - Akash Banerjee - YouTuber
 
-![Issue-1](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-Bonds-Purchased-Vs-Net-Profits.jpg)
-![Issue-2](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-1-in-2023.jpg)
-![Issue-3](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-2-in-2023.jpg)
-![Issue-4](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-3-in-2023.jpg)
-![Issue-5](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-4-in-2023.jpg)
+![Issue-0](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-Bonds-Purchased-Vs-Net-Profits.jpg)
+![Issue-1](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-1-in-2023.jpg)
+![Issue-2](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-2-in-2023.jpg)
+![Issue-3](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-3-in-2023.jpg)
+![Issue-4](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-4-in-2023.jpg)
+![Issue-5](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-5.jpg)
+![Issue-6](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-6-Delhi-Liquour-Scam.jpg)
+![Issue-7](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-7.jpg)
+![Issue-8A](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-8A.jpg)
+![Issue-8B](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-8B.jpg)
+![Issue-8C](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-8C.jpg)
+![Issue-8D](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-8D.jpg)
+![Issue-9A](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-9A.jpg)
+![Issue-9B](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-9B.jpg)
+![Issue-9C](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-9C.jpg)
+![Issue-9D](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-9D.jpg)
 
-Source: YouTuber - The DeshBhakt ...
+Source: YouTuber - The DeshBhakt: Akash Banerjee ... https://www.youtube.com/watch?v=hM8unyUM6KA
 
 (C) Copyright 2024 : Apache 2 License : Author: Araf Karsh Hamid
