@@ -125,7 +125,7 @@ Conditions for Tax Exemption: To qualify for tax exemption under Section 13A, po
 - **Consequences of Non-Compliance:** Failure to comply with the conditions specified under Section 13A can result in the withdrawal of tax exemption status for the political party. Additionally, penalties may be imposed for non-compliance with the reporting and disclosure requirements.
 - **Purpose of the Provision:** The objective of Section 13A is to encourage transparency and accountability in the funding of political parties while providing them with a tax incentive to support their activities. By exempting their income from taxation, the provision aims to facilitate the functioning of political parties and promote democratic participation.
 
-## Top Corporates 
+## Top Corporates - From March 2018 - February 2024
 
 ![Donations-0](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Donations-EB-Company-0.jpg)
 ![Donations-1](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Donations-EB-Company-1.jpg)
