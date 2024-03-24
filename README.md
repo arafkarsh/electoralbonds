@@ -127,6 +127,6 @@ Purpose of the Provision: The objective of Section 13A is to encourage transpare
 ![Issue-4](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-3-in-2023.jpg)
 ![Issue-5](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-4-in-2023.jpg)
 
-Source: YouTuber - The DeshBhakt 
+Source: YouTuber - The DeshBhakt ...
 
 (C) Copyright 2024 : Apache 2 License : Author: Araf Karsh Hamid
