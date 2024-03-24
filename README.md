@@ -74,7 +74,7 @@ Shortly after the amendments were introduced, in September 2017 and January 2018
 - On 31 October 2023,  a five-judge Constitution Bench led by CJI Chandrachud, with Justices Sanjiv Khanna, B.R. Gavai, J.B. Pardiwala, and Manoj Misra heard arguments over three days. Petitioners argued that the electoral bonds scheme increased corporate funding, black money circulation, and corruption. They argued that voters have a right to information about political parties’ source of funding, as it informs the policies and views of that party. The Union contended that the scheme was designed to guarantee confidentiality and the right to privacy of the donors, who were otherwise exposed to retribution from political parties that they didn’t fund.
 
 - On 2 November 2023, the Constitution Bench reserved judgement. 
-- On 15 February 2024, the Court unanimously struck down the Union’s 2018 Electoral Bonds (EB) Scheme. The Bench held that the Scheme violated the voters’ right to information enshrined in Article 19(1)(a) of the Constitution. The Court also directed that the sale of electoral bonds be stopped with immediate effect. SBI was directed to submit details of the Electoral Bonds purchased from 12 April 2019 till date, to the ECI. This will include details of the purchaser as well as the political parties that the bonds were given to. Further, the Court ordered the ECI to publish the information shared by SBI on its official website within one week from the receipt of the information (by 13 March 2024).
+- On 15 February 2024, the Supreme Court unanimously struck down the (Indian) Union’s 2018 Electoral Bonds (EB) Scheme. The Bench held that the Scheme violated the voters’ right to information enshrined in Article 19(1)(a) of the Constitution. The Court also directed that the sale of electoral bonds be stopped with immediate effect. SBI was directed to submit details of the Electoral Bonds purchased from 12 April 2019 till date, to the ECI. This will include details of the purchaser as well as the political parties that the bonds were given to. Further, the Court ordered the ECI to publish the information shared by SBI on its official website within one week from the receipt of the information (by 13 March 2024).
 
 Source: https://www.scobserver.in/cases/association-for-democratic-reforms-electoral-bonds-case-background/
 
@@ -91,7 +91,7 @@ Applicability to Contributions: Contributions received from entities or individu
 
 Regulation of Foreign Contributions: The FCRA regulates the acceptance, utilization, and reporting of foreign contributions by individuals, associations, and organizations in India. It aims to ensure transparency, accountability, and national security in the receipt and utilization of funds from foreign sources.
 
-Prohibition and Permissions: Certain activities related to foreign contributions are prohibited under the FCRA, while others require prior permission or registration from the government. Political parties, electoral candidates, lawmakers, and certain categories of NGOs are prohibited from accepting foreign contributions without prior approval from the Ministry of Home Affairs.
+<p style="color:red;">Prohibition and Permissions: Certain activities related to foreign contributions are prohibited under the FCRA, while others require prior permission or registration from the government. Political parties, electoral candidates, lawmakers, and certain categories of NGOs are prohibited from accepting foreign contributions without prior approval from the Ministry of Home Affairs.</p>
 
 Reporting Requirements: Organizations and individuals receiving foreign contributions are required to maintain detailed records, including the sources and utilization of funds. They must submit regular reports to the government, disclosing the receipt and utilization of foreign contributions in accordance with the FCRA provisions.
 
@@ -101,7 +101,7 @@ Reporting Requirements: Organizations and individuals receiving foreign contribu
 - Expense Accounts: Political parties and candidates are required to maintain separate accounts of their election expenses. Section 77(1) of the Act mandates candidates to lodge an account of their election expenses within 30 days after the declaration of the election result with the District Election Officer.
 - Limitation on Election Expenses: The Act prescribes limits on the maximum amount of money that can be spent by candidates and political parties during elections. Exceeding these limits is an offense under the Act.
 - Disclosure of Donations: Political parties are required to maintain records of donations received and report them to the Election Commission of India. Section 29C of the Act mandates political parties to submit details of donations above Rs. 20,000 to the Election Commission annually. Additionally, they must maintain records of donations received in excess of Rs. 20,000 from any person or company.
-- Publication of Accounts: Political parties are required to publish their audited accounts annually. Section 29C(3) of the Act stipulates that political parties must submit their audited annual financial statements to the Election Commission, which then publishes these statements for public scrutiny.
+<p style="color:red;">- Publication of Accounts: Political parties are required to publish their audited accounts annually. Section 29C(3) of the Act stipulates that political parties must submit their audited annual financial statements to the Election Commission, which then publishes these statements for public scrutiny.</p>
 - Penalties for Non-Compliance: The Act provides for penalties for candidates and political parties that fail to comply with the disclosure and reporting requirements. Violations can lead to disqualification, fines, or other legal actions.
 
 ### Income Tax Act - Section 13A
@@ -112,7 +112,7 @@ Conditions for Tax Exemption: To qualify for tax exemption under Section 13A, po
 - They must submit a report of the contributions received in excess of Rs. 20,000 from any person or entity.
 - They must submit their income and expenditure statements to the Election Commission of India annually.
 
-Tax Treatment of Donations: Donations received by political parties are exempt from taxation under Section 13A. However, political parties must maintain records of donations exceeding Rs. 20,000 and report them to the Election Commission of India.
+<p style="color:red;">Tax Treatment of Donations: Donations received by political parties are exempt from taxation under Section 13A. However, political parties must maintain records of donations exceeding Rs. 20,000 and report them to the Election Commission of India.</p>
 
 Disclosure Requirements: Political parties are required to disclose the details of their funding, including the sources of their income and the amounts received from donors. This transparency is essential for ensuring accountability and preventing the misuse of funds.
 
