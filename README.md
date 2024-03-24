@@ -97,8 +97,7 @@ Applicability to Contributions: Contributions received from entities or individu
 
 Regulation of Foreign Contributions: The FCRA regulates the acceptance, utilization, and reporting of foreign contributions by individuals, associations, and organizations in India. It aims to ensure transparency, accountability, and national security in the receipt and utilization of funds from foreign sources.
 
-<div style="color:red">**Prohibition and Permissions:** *Certain activities related to foreign contributions are prohibited under the FCRA, while others require prior permission or registration from the government. Political parties, electoral candidates, lawmakers, and certain categories of NGOs are prohibited from accepting foreign contributions without prior approval from the Ministry of Home Affairs.*
-</div>
+**Prohibition and Permissions:** *Certain activities related to foreign contributions are prohibited under the FCRA, while others require prior permission or registration from the government. Political parties, electoral candidates, lawmakers, and certain categories of NGOs are prohibited from accepting foreign contributions without prior approval from the Ministry of Home Affairs.*
 
 Reporting Requirements: Organizations and individuals receiving foreign contributions are required to maintain detailed records, including the sources and utilization of funds. They must submit regular reports to the government, disclosing the receipt and utilization of foreign contributions in accordance with the FCRA provisions.
 
