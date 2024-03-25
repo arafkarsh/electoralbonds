@@ -187,18 +187,24 @@ $ importdb
 
 ### PreBuilt Views
 
+#### Party Donor Tx Matching
+```
+select * from eb_schema.partydonormatching_view;
+```
+![db-view-1](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Techies-EB-PartyDonor-Matching.jpg)
+
 #### Party Donor Tx Summary
 ```
 select * from eb_schema.partydonorsummary_view;
 ```
-![db-view-1](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Techies-EB-PartyDonor-Summary.jpg)
+![db-view-2](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Techies-EB-PartyDonor-Summary.jpg)
 
 
 #### Party Donor Tx Details
 ```
 select * from eb_schema.partydonordetails_view;
 ```
-![db-view-2](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Techies-EB-PartyDonor-Details.jpg)
+![db-view-3](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Techies-EB-PartyDonor-Details.jpg)
 
 
 
