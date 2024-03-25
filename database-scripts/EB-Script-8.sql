@@ -26,3 +26,11 @@ update eb_schema.eb_purchaser_map as p
 set donorid = d.donorid 
 from eb_schema.eb_purchaser_m as d
 where p."donorName" = d.donorname 
+
+insert into eb_schema.eb_party_m (partyid, partyname, partyaccount)
+select UUID_GENERATE_V4(), partyname, partyaccount 
+from (
+	select distinct p."party-name" as partyname, p."party-account" as partyaccount 
+	from eb_schema.eb_parties_tx p
+	order by partyname 
+) as uniqueParties;
