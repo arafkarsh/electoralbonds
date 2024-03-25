@@ -151,11 +151,14 @@ Conditions for Tax Exemption: To qualify for tax exemption under Section 13A, po
 ![Issue-9C](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-9C.jpg)
 ![Issue-9D](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-9D.jpg)
 
+![Donations-2](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Donations-EB-Company-2.jpg)
 ![Issue-10A](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-10A.jpg)
 ![Issue-10B](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-10B.jpg)
 ![Issue-10C](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-10C.jpg)
-![Issue-11](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-11.jpg)
+![Donations-3](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Donations-EB-Company-3.jpg)
 ![Issue-12](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-12.jpg)
+
+![Issue-11](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-11.jpg)
 
 Source: 
 - YouTuber - The DeshBhakt: Akash Banerjee ... https://www.youtube.com/watch?v=hM8unyUM6KA
