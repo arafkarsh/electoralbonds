@@ -53,10 +53,6 @@ The findings derived from correlating the Purchaser (Corporates/Individuals) wit
 
 ![Party-2018](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/EB-Party-Wise-Mint.jpg)
 
-## Laws Changed to introduce Electoral Bonds
-
-![Laws-Amendended](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/EB-Changes-Required.jpg)
-
 ### Challenges to the Electoral Bonds
 
 Shortly after the amendments were introduced, in September 2017 and January 2018,  two Non-Governmental Organisations—Association for Democratic Reforms (ADR) and Common Cause— and the Communist Party of India (Marxist) filed petitions in the Supreme Court challenging the amendments. At the outset, the petitions argued that the Finance Acts were wrongfully passed as money bills to prevent higher scrutiny by the Rajya Sabha. This challenge is tagged with the larger challenge to the use of money bills under Article 110.
@@ -83,6 +79,10 @@ Shortly after the amendments were introduced, in September 2017 and January 2018
 - On 15 February 2024, the Supreme Court unanimously struck down the (Indian) Union’s 2018 Electoral Bonds (EB) Scheme. The Bench held that the Scheme violated the voters’ right to information enshrined in Article 19(1)(a) of the Constitution. The Court also directed that the sale of electoral bonds be stopped with immediate effect. SBI was directed to submit details of the Electoral Bonds purchased from 12 April 2019 till date, to the ECI. This will include details of the purchaser as well as the political parties that the bonds were given to. Further, the Court ordered the ECI to publish the information shared by SBI on its official website within one week from the receipt of the information (by 13 March 2024).
 
 Source: https://www.scobserver.in/cases/association-for-democratic-reforms-electoral-bonds-case-background/
+
+## Laws Changed to introduce Electoral Bonds
+
+![Laws-Amendended](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/EB-Changes-Required.jpg)
 
 ### Foreign Contributions Regulations Act, 2010 - Section 2(1)(j)(vi)
 
