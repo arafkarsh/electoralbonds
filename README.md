@@ -132,6 +132,14 @@ Conditions for Tax Exemption: To qualify for tax exemption under Section 13A, po
 ![Donations-2](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Donations-EB-Company-2.jpg)
 ![Donations-3](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Donations-EB-Company-3.jpg)
 
+## Top Donors to Ruling Party 
+
+![Donor-RP-1A](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Donations-EB-RulingParty-1A.jpg)
+![Donor-RP-1B](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Donations-EB-RulingParty-1B.jpg)
+![Donor-RP-2A](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Donations-EB-RulingParty-2A.jpg)
+![Donor-RP-2B](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Donations-EB-RulingParty-2B.jpg)
+![Donor-RP-3](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Donations-EB-RulingParty-3.jpg)
+
 ## Issues with Electoral Bonds
 
 ![Issue-0](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-Bonds-Purchased-Vs-Net-Profits.jpg)
@@ -164,6 +172,7 @@ Source:
 - YouTuber - The DeshBhakt: Akash Banerjee ... https://www.youtube.com/watch?v=hM8unyUM6KA
 - YouTuber - Soch By Mohak Mangal ... https://www.youtube.com/watch?v=Y860YJVuQOo
 - YouTuber - Dhruv Rathee ... https://www.youtube.com/watch?v=RJfqzUWZ0Bw
+- The Quint - https://www.youtube.com/watch?v=4mQ3EPOZoqE
 
 # For Developers
 
