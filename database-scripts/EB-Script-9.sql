@@ -45,4 +45,31 @@ and p."bond-number" = d."bond-number"
 and d.purchaser = epm.purchaser
 order by partyName, purchaser, "purchase-date"; 
 
+CREATE OR REPLACE VIEW eb_schema.donorpartysummary_view
+as select *
+from (
+        select epm."donorName"  as purchaser,  p."party-name" as partyName,  sum(p.denominations) as Amount, count(*) as Tx, 0 as TotalAmount, 0 as TotalTx
+        from eb_schema.eb_parties_tx p, eb_schema.eb_purchaser_tx d, eb_schema.eb_purchaser_map epm
+        where
+        p.prefix = d.prefix
+        and p."bond-number" = d."bond-number"
+        and d.purchaser = epm.purchaser
+        group by  epm."donorName", p."party-name"
+        union all
+        select epm."donorName"  as purchaser, 'ZZZ.Total' as partyName,  0 as Amount, 0 as Tx, sum(p.denominations) as TotalAmount, count(*) as TotalTx
+        from eb_schema.eb_parties_tx p, eb_schema.eb_purchaser_tx d, eb_schema.eb_purchaser_map epm
+        where
+        p.prefix = d.prefix
+        and p."bond-number" = d."bond-number"
+        and d.purchaser = epm.purchaser
+        group by epm."donorName"
+) as combinedData
+order by purchaser, Amount desc;
+
+select * from eb_schema.partydonorsummary_view;
+
 select * from eb_schema.partydonordetails_view pv;
+
+select * from eb_schema.partydonormatching_view pv;
+
+select * from eb_schema.donorpartysummary_view dv; 

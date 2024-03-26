@@ -207,5 +207,11 @@ select * from eb_schema.partydonordetails_view;
 ![db-view-3](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Techies-EB-PartyDonor-Details.jpg)
 
 
+#### Donor Party Tx Summary
+```
+select * from eb_schema.donorpartysummary_view dv; 
+```
+![db-view-4](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Techies-EB-DonorParty-Summary.jpg)
+
 
 (C) Copyright 2024 : Apache 2 License : Author: Araf Karsh Hamid
