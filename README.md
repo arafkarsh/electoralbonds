@@ -187,6 +187,13 @@ Notes
 - port number: 5433
 
 ```
+$ git clone https://github.com/arafkarsh/electoralbonds.git
+```
+
+![code-setup](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Techies-Code-Setup.jpg)
+
+```
+$ cd electoralbonds
 $ cd database-scripts
 $ gunzip eb-data.sql.gz
 $ importdb
