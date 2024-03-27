@@ -168,6 +168,8 @@ Conditions for Tax Exemption: To qualify for tax exemption under Section 13A, po
 
 ![Issue-11](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-Company-11.jpg)
 
+![Issue-13](https://raw.githubusercontent.com/arafkarsh/electoralbonds/main/images/Issues-EB-General-13.jpg)
+
 Source: 
 - YouTuber - The DeshBhakt: Akash Banerjee ... https://www.youtube.com/watch?v=hM8unyUM6KA
 - YouTuber - Soch By Mohak Mangal ... https://www.youtube.com/watch?v=Y860YJVuQOo
