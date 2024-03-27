@@ -120,7 +120,7 @@ Conditions for Tax Exemption: To qualify for tax exemption under Section 13A, po
 
 - **Tax Treatment of Donations:** Donations received by political parties are exempt from taxation under Section 13A. However, political parties must maintain records of donations exceeding Rs. 20,000 and report them to the Election Commission of India.
 
-- **Disclosure Requirements:** *Political parties are required to disclose the details of their funding, including the sources of their income and the amounts received from donors. This transparency is essential for ensuring accountability and preventing the misuse of funds.*
+> - **Disclosure Requirements:** *Political parties are required to disclose the details of their funding, including the sources of their income and the amounts received from donors. This transparency is essential for ensuring accountability and preventing the misuse of funds.*
 
 - **Consequences of Non-Compliance:** Failure to comply with the conditions specified under Section 13A can result in the withdrawal of tax exemption status for the political party. Additionally, penalties may be imposed for non-compliance with the reporting and disclosure requirements.
 - **Purpose of the Provision:** The objective of Section 13A is to encourage transparency and accountability in the funding of political parties while providing them with a tax incentive to support their activities. By exempting their income from taxation, the provision aims to facilitate the functioning of political parties and promote democratic participation.
